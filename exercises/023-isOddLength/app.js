@@ -1,1 +1,1 @@
-// Write your function here
+const isOddLength = x => x.length%2 !== 0;

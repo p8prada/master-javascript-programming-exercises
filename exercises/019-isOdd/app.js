@@ -1,1 +1,1 @@
-// Write your function here
+const isOdd = x => x%2 != 0;

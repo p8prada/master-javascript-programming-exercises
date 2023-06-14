@@ -1,1 +1,1 @@
-// Write your function here
+const isSameLength = (w1,w2) => w1.length === w2.length;

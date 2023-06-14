@@ -1,1 +1,1 @@
-// Write your function here
+const isEqualTo = (x,y) => x === y;

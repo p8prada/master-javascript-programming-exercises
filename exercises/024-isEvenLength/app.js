@@ -1,1 +1,1 @@
-// Write your function here
+const isEvenLength = x => x.length % 2 === 0;

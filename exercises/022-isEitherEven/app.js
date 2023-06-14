@@ -1,1 +1,1 @@
-// Write your function here
+const isEitherEven = (x,y) => x%2 == 0 || y%2 == 0;

@@ -1,1 +1,1 @@
-// Write your function here
+const areBothOdd = (x,y) => x%2 != 0 && y%2 != 0;

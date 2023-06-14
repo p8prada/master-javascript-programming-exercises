@@ -1,1 +1,1 @@
-// Write your function here
+const isEven = x => x%2 === 0;
