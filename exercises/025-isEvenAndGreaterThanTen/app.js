@@ -1,1 +1,1 @@
-// Write your function here
+const isEvenAndGreaterThanTen = x => x%2 === 0 && x>10;

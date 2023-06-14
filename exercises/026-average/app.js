@@ -1,1 +1,1 @@
-// Write your function here
+const average = (x,y) => (x+y)/2;

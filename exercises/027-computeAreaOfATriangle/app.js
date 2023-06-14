@@ -1,1 +1,1 @@
-// Write your function here
+const computeAreaOfATriangle = (a,b) => 0.5*(a*b);

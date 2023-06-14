@@ -1,1 +1,1 @@
-// Write your function here
+const cube = x => x*x*x;

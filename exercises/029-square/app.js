@@ -1,1 +1,1 @@
-// Write your function here
+const square = x => x*x;
